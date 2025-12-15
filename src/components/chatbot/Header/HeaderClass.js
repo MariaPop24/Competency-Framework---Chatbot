@@ -1,15 +1,14 @@
 import clsx from "clsx";
 
+export const headersContainer = clsx("w-full", "fixed", "top-0");
+
 export const headerClass = clsx(
   "flex",
   "items-center",
   "bg-neutral-700",
   "text-white",
   "shadow-md",
-  "z-50",
-  "w-full",
-  "fixed",
-  "top-0"
+  "z-50"
 );
 
 export const contentClass = clsx(
