@@ -1,7 +1,6 @@
 import clsx from "clsx";
 
 export const subheaderClass = clsx(
-  "bg-[#f8f7f3]",
   "flex",
   "justify-start",
   "items-center",
