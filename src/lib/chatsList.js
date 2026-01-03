@@ -47,4 +47,45 @@ export const chatsList = [
     id: 12,
     title: "first chat",
   },
+  {
+    id: 13,
+    title: "first chat",
+  },
+  {
+    id: 14,
+    title: "first chat",
+  },
+  {
+    id: 15,
+    title: "first chat",
+  },
+  {
+    id: 16,
+    title: "first chat",
+  },
+  {
+    id: 17,
+    title: "first chat",
+  },
+
+  {
+    id: 18,
+    title: "first chat",
+  },
+  {
+    id: 19,
+    title: "first chat",
+  },
+  {
+    id: 20,
+    title: "first chat",
+  },
+  {
+    id: 21,
+    title: "first chat",
+  },
+  {
+    id: 22,
+    title: "first chat",
+  },
 ];
